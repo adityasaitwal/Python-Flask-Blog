@@ -1,0 +1,22 @@
+{
+     "params":
+     {
+       "local_server":"True",
+       "local_uri": "mysql://root:@localhost/FlaskBlogging",
+       "prod_uri": "mysql://root:@localhost/FlaskBlogging",
+       "tw_url":"https://twitter.com/Empireofyouth",
+       "fb_url":"https://facebook.com/adityasaitwal",
+       "gh_url":"https://github.com/adityasaitwal",
+       "blog_name":"Empire of Youth",
+       "tag_line":"A Blog Theme by Aditya Saitwal",
+       "gmail-user": "adityasaitwal@gmail.com",
+       "gmail-password":"********",
+       "about_text": "Hey Folks, What's up? This is Aditya Saitwal and I had created this blog theme named Empire of Youth just for sharing blog posts on current affairs in our country.Do let me know your feedback about the same through my contact page.I also share my thoughts on twitter and facebook so please do follow me on this social sites whose link is given below.I also created my profile on the online platform github where I save my ongoing projects and allow users to make changes to them using the pull requests so please do visit my profile,link is given below for the same.Thank You!!",
+       "no_of_posts": 2,
+       "login_image":"login1.svg",
+       "admin_user":"adityasaitwal",
+       "admin_password":"empire",
+       "upload_location":"C:\\Users\\dell\\PycharmProjects\\flask.tut\\static"
+
+     }
+}
