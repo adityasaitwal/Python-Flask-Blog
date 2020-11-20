@@ -1,2 +1,2 @@
 # Python-Flask-Blog
-This is the flask blog I have created
+I have created this blog using flask where we can write and publish blogs on the homepage of the site
